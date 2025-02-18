@@ -14,10 +14,8 @@ The goal of this project is to extract and compute key geometric properties from
 ![alt text](src/data/Look-outCat.jpg)
 
 ## 📁 Repository Structure
-- **code/** - Implementation of the algorithms and computations.
-- **images/** - Reference images used in the analysis.
+- **src/** - Implementation of the algorithms and computations.
 - **docs/** - Full report and additional documentation.
-- **README.md** - This file.
 
 ## 📸 Reconstructed Scene
 
