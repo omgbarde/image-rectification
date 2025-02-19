@@ -15,7 +15,7 @@ The goal of this project is to extract and compute key geometric properties from
 
 ## 📁 Repository Structure
 - **src/** - Implementation of the algorithms and computations.
-- **docs/** - Full report and additional documentation.
+- **Report/** - Full report and additional documentation.
 
 ## 📸 Reconstructed Scene
 
