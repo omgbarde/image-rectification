@@ -1,6 +1,6 @@
-# IACV-Homework-24-25
+# Image rectification using Matlab
 
-Welcome to the **IACV-Homework-24-25** repository! This project involves **image analysis and computer vision techniques** to reconstruct a 3D scene from a given image.
+This project involves **image analysis and computer vision techniques** to rectify and reconstruct a 3D estimate from a given image.
 
 ## 📌 Project Objective
 The goal of this project is to extract and compute key geometric properties from the image scene, including:
